@@ -1,2 +1,1 @@
-ok = "World"
-print(f"Hello {ok}!")
+print("Hello World!")
